@@ -1,34 +1,3 @@
-# version: "3.8"
-# services:
-#   db:
-#     image: mongo
-#     container_name: my_mongo_container
-#     restart: unless-stopped
-#     ports:
-#       - "27017:27017"
-#     volumes:
-#       - ./database/db:/data/db
-#       # - ./database/dev.archive:/Databases/dev.archive
-#       # - ./database/production:/Databases/production
-
-#   backend:
-#     build:
-#       context: ./final_work_Today  # Replace with the path to your backend Dockerfile and source code
-#     container_name: backend_container
-#     ports:
-#       - "8000:8000"
-#     environment:
-#       - DATABASE_URL = mongodb://db:27017/Book_store_management_using_React
-
-#   frontend:
-#     build:
-#       context: ./Online_bookShop_Today  # Replace with the path to your frontend Dockerfile and source code
-#     container_name: my_frontend_container
-#     ports:
-#       - "5173:5173"
-
-# networks:
-#   my-network:
 version: "3.8"
 services:
   mongo:
