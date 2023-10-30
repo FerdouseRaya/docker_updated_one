@@ -1,0 +1,133 @@
+
+div {
+  margin: initial; /* Reset margin to the browser default */
+  padding: initial; /* Reset padding to the browser default */
+}
+// for SearchDataPrint component
+/* SearchDataPrint.scss */
+.search-data-print {
+  background-color: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  padding: 15px;
+  margin-top: 26px;
+  margin-bottom: 25px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+  .search-data-print-content {
+    display: flex;
+    align-items: center;
+
+    .search-data-print-image {
+      max-width: 150px;
+      max-height: 150px;
+      margin-right: 10px;
+    }
+
+    .search-data_info {
+      h3 {
+        margin: 0;
+        font-size: 15px;
+        color: #0d4708;
+      }
+
+
+    }
+  }
+}
+
+
+// for SearchBar component
+.main-container {
+  padding-top: -15vh;
+  width: 40%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 200px;
+}
+
+.input-wrapper {
+  width: 100%;
+  height: 2.5rem;
+  border: none;
+  border-radius: 10px;
+  padding: 0 15px;
+  box-shadow: 0px 0px 8px #ddd;
+  background-color: white;
+  display: flex;
+  align-items: center;
+}
+
+input {
+  background-color: transparent;
+  border: none;
+  height: 100%;
+  font-size: 1.25rem;
+  width: 100%;
+  margin-left: 5px;
+}
+
+input:focus {
+  outline: none;
+}
+
+#search-icon {
+  color: #364144;
+}
+//Pagination
+.pagination-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.pagination-button {
+  padding: 10px 20px;
+  border: 1px solid #333;
+  background-color: #fff;
+  color: #333;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+
+  &:hover {
+    background-color: #333;
+    color: #fff;
+  }
+
+  &.disabled {
+    cursor: not-allowed;
+    opacity: 0.6;
+    pointer-events: none;
+  }
+}
+
+.page-indicator {
+  font-weight: bold;
+}
+
+.results-per-page {
+  select {
+    border: 1px solid #333;
+    padding: 5px;
+    background-color: #fff;
+    color: #333;
+  }
+}
+/* Add these styles to your SCSS file */
+
+.error-message {
+  color: #17580a; 
+  background-color: #8dd68a; 
+  padding: 10px; 
+  font-size: 16px; 
+  width: 100%; 
+  max-width: 300px; 
+  text-align: center; 
+  margin: 10px auto; 
+}
+
+

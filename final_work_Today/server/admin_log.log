@@ -1,0 +1,179 @@
+
+Time:Tue Sep 19 2023 13:47:36 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/viewBySearch| [error: ReferenceError: search is not defined]
+Time:Tue Sep 19 2023 13:48:34 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/viewBySearch| [error: ReferenceError: search is not defined]
+Time: Tue Sep 19 2023 13:49:32 GMT+0600 (Bangladesh Standard Time) |success:Successfully received the books!|URL: 127.0.0.1/books/viewBySearch
+Time: Tue Sep 19 2023 13:51:55 GMT+0600 (Bangladesh Standard Time) |success:Successfully received the books!|URL: 127.0.0.1/books/viewBySearch
+Time:Tue Sep 19 2023 16:10:14 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Tue Sep 19 2023 17:09:32 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Tue Sep 19 2023 17:17:58 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time: Tue Sep 19 2023 19:29:17 GMT+0600 (Bangladesh Standard Time) |success:Successfully SingedUP!|URL: 127.0.0.1/auth/sign-up
+Time: Tue Sep 19 2023 19:52:59 GMT+0600 (Bangladesh Standard Time) |success:Successfully SingedUP!|URL: 127.0.0.1/auth/sign-up
+Time: Tue Sep 19 2023 19:58:17 GMT+0600 (Bangladesh Standard Time) |success:Successfully SingedUP!|URL: 127.0.0.1/auth/sign-up
+Time: Tue Sep 19 2023 19:59:04 GMT+0600 (Bangladesh Standard Time) |success:Successfully SingedUP!|URL: 127.0.0.1/auth/sign-up
+Time:Tue Sep 19 2023 20:04:40 GMT+0600 (Bangladesh Standard Time) |failed Message:Authentication Error...|URL: 127.0.0.1/auth/login| [error: ReferenceError: error is not defined]
+Time:Tue Sep 19 2023 20:06:43 GMT+0600 (Bangladesh Standard Time) |failed Message:Authentication Error...|URL: 127.0.0.1/auth/login| [error: ReferenceError: error is not defined]
+Time: Tue Sep 19 2023 20:08:55 GMT+0600 (Bangladesh Standard Time) |success:Successfully SingedUP!|URL: 127.0.0.1/auth/sign-up
+Time: Tue Sep 19 2023 20:09:05 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Tue Sep 19 2023 22:44:56 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Tue Sep 19 2023 23:04:08 GMT+0600 (Bangladesh Standard Time) |success:Successfully SingedUP!|URL: 127.0.0.1/auth/sign-up
+Time:Tue Sep 19 2023 23:10:31 GMT+0600 (Bangladesh Standard Time) |failed Message:Authentication Error...|URL: 127.0.0.1/auth/login| [error: StrictPopulateError: Cannot populate path `users` because it is not in your schema. Set the `strictPopulate` option to false to override.]
+Time: Tue Sep 19 2023 23:11:52 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Tue Sep 19 2023 23:13:44 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Tue Sep 19 2023 23:16:03 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Tue Sep 19 2023 23:24:58 GMT+0600 (Bangladesh Standard Time) |success:Successfully SingedUP!|URL: 127.0.0.1/auth/sign-up
+Time: Tue Sep 19 2023 23:26:36 GMT+0600 (Bangladesh Standard Time) |success:Successfully SingedUP!|URL: 127.0.0.1/auth/sign-up
+Time: Tue Sep 19 2023 23:27:14 GMT+0600 (Bangladesh Standard Time) |success:Successfully SingedUP!|URL: 127.0.0.1/auth/sign-up
+Time: Tue Sep 19 2023 23:27:57 GMT+0600 (Bangladesh Standard Time) |success:Successfully SingedUP!|URL: 127.0.0.1/auth/sign-up
+Time: Tue Sep 19 2023 23:30:41 GMT+0600 (Bangladesh Standard Time) |success:Successfully SingedUP!|URL: 127.0.0.1/auth/sign-up
+Time: Tue Sep 19 2023 23:31:40 GMT+0600 (Bangladesh Standard Time) |success:Successfully SingedUP!|URL: 127.0.0.1/auth/sign-up
+Time: Tue Sep 19 2023 23:32:08 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Tue Sep 19 2023 23:39:47 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time:Tue Sep 19 2023 23:46:16 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Tue Sep 19 2023 23:49:31 GMT+0600 (Bangladesh Standard Time) |failed|URL: 127.0.0.1/books/create| [error: TypeError: BookModel.create(...).select is not a function]
+Time:Tue Sep 19 2023 23:56:06 GMT+0600 (Bangladesh Standard Time) |failed|URL: 127.0.0.1/books/create| [error: TypeError: BookModel.create(...).select is not a function]
+Time: Wed Sep 20 2023 02:15:15 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time:Wed Sep 20 2023 03:10:17 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks| [error: CastError: Cast to ObjectId failed for value "" (type string) at path "_id" for model "books"]
+Time:Wed Sep 20 2023 03:10:22 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks| [error: CastError: Cast to ObjectId failed for value "" (type string) at path "_id" for model "books"]
+Time:Wed Sep 20 2023 03:10:57 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks| [error: CastError: Cast to ObjectId failed for value "" (type string) at path "_id" for model "books"]
+Time: Wed Sep 20 2023 03:16:30 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time:Wed Sep 20 2023 03:17:14 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks| [error: CastError: Cast to ObjectId failed for value "" (type string) at path "_id" for model "books"]
+Time:Wed Sep 20 2023 03:18:37 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks| [error: CastError: Cast to ObjectId failed for value "" (type string) at path "_id" for model "books"]
+Time:Wed Sep 20 2023 03:18:47 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks| [error: CastError: Cast to ObjectId failed for value "" (type string) at path "_id" for model "books"]
+Time: Wed Sep 20 2023 03:45:38 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time:Wed Sep 20 2023 03:59:25 GMT+0600 (Bangladesh Standard Time) |failed|URL: 127.0.0.1/users/editUsersInfo| [error: TypeError: UsersModel.findByID is not a function]
+Time:Wed Sep 20 2023 04:34:37 GMT+0600 (Bangladesh Standard Time) |failed|URL: 127.0.0.1/users/viewUsers| [error: ReferenceError: productLimit is not defined]
+Time:Wed Sep 20 2023 04:35:14 GMT+0600 (Bangladesh Standard Time) |failed|URL: 127.0.0.1/users/viewUsers| [error: ReferenceError: productLimit is not defined]
+Time:Wed Sep 20 2023 04:36:31 GMT+0600 (Bangladesh Standard Time) |failed|URL: 127.0.0.1/users/viewUsers| [error: ReferenceError: filter is not defined]
+Time: Wed Sep 20 2023 05:50:59 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Wed Sep 20 2023 11:22:27 GMT+0600 (Bangladesh Standard Time) |success:Successfully SingedUP!|URL: 127.0.0.1/auth/sign-up
+Time: Wed Sep 20 2023 11:22:52 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Wed Sep 20 2023 11:24:03 GMT+0600 (Bangladesh Standard Time) |success:Successfully SingedUP!|URL: 127.0.0.1/auth/sign-up
+Time: Wed Sep 20 2023 11:24:19 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time:Wed Sep 20 2023 11:35:12 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/viewBySearch| [error: ReferenceError: error is not defined]
+Time:Wed Sep 20 2023 11:35:58 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/viewBySearch| [error: ReferenceError: error is not defined]
+Time:Wed Sep 20 2023 11:36:01 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/viewBySearch| [error: ReferenceError: error is not defined]
+Time: Wed Sep 20 2023 12:47:56 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Wed Sep 20 2023 13:30:17 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time:Wed Sep 20 2023 14:34:16 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/viewBySearch?page=1&limit=3&sortparam=stock&sortorder=asc&bestSeller=true| [error: MongoServerError: $regex has to be a string]
+Time: Wed Sep 20 2023 16:28:25 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Wed Sep 20 2023 16:31:35 GMT+0600 (Bangladesh Standard Time) |success:Successfully SingedUP!|URL: 127.0.0.1/auth/sign-up
+Time: Wed Sep 20 2023 16:31:42 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time:Fri Sep 29 2023 12:48:56 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Fri Sep 29 2023 12:55:50 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Fri Sep 29 2023 13:38:12 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Fri Sep 29 2023 14:37:46 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks| [error: CastError: Cast to ObjectId failed for value "65167ee4f10607a69a36e1c" (type string) at path "_id" for model "books"]
+Time:Fri Sep 29 2023 15:05:42 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Fri Sep 29 2023 15:17:36 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks| [error: CastError: Cast to ObjectId failed for value "" (type string) at path "_id" for model "books"]
+Time:Fri Sep 29 2023 16:27:04 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Fri Sep 29 2023 16:29:49 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Fri Sep 29 2023 17:05:22 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Mon Oct 02 2023 11:54:43 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Mon Oct 02 2023 12:06:04 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Mon Oct 02 2023 12:06:45 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Mon Oct 02 2023 12:07:38 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Mon Oct 02 2023 12:14:41 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Mon Oct 02 2023 12:44:08 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/viewBySearch?availability=true| [error: MongoServerError: $regex has to be a string]
+Time:Mon Oct 02 2023 15:38:16 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Mon Oct 02 2023 15:54:08 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks| [error: CastError: Cast to ObjectId failed for value "{ bookID: '651a8f872cb306595448d340' }" (type Object) at path "_id" for model "books"]
+Time: Tue Oct 03 2023 12:58:32 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 05 2023 09:07:02 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 05 2023 09:07:07 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 05 2023 09:07:23 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 05 2023 09:08:47 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 05 2023 09:35:04 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 05 2023 10:06:58 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 05 2023 10:07:06 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 05 2023 10:08:08 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 05 2023 10:08:37 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 05 2023 10:16:20 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 05 2023 10:17:01 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 05 2023 10:45:29 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 05 2023 11:08:36 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time:Thu Oct 05 2023 14:58:26 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Thu Oct 05 2023 15:05:45 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Thu Oct 05 2023 15:09:31 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Thu Oct 05 2023 15:11:24 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Thu Oct 05 2023 15:12:25 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Thu Oct 05 2023 15:17:20 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Thu Oct 05 2023 15:24:30 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Thu Oct 05 2023 15:28:08 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Thu Oct 05 2023 15:29:15 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Thu Oct 05 2023 15:30:32 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Thu Oct 05 2023 15:32:06 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Thu Oct 05 2023 15:39:54 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time: Thu Oct 05 2023 15:50:09 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time:Thu Oct 05 2023 16:19:34 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Thu Oct 05 2023 16:25:13 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time: Thu Oct 05 2023 16:46:18 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 05 2023 16:46:35 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 05 2023 16:48:38 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time:Fri Oct 06 2023 11:23:41 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Fri Oct 06 2023 11:59:33 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Fri Oct 06 2023 12:03:36 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Fri Oct 06 2023 12:04:39 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Fri Oct 06 2023 13:47:40 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/viewBySearch| [error: ReferenceError: bookId is not defined]
+Time:Fri Oct 06 2023 13:47:40 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/viewBySearch| [error: ReferenceError: bookId is not defined]
+Time:Fri Oct 06 2023 13:47:58 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/viewBySearch| [error: ReferenceError: bookId is not defined]
+Time:Fri Oct 06 2023 13:47:58 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/viewBySearch| [error: ReferenceError: bookId is not defined]
+Time:Fri Oct 06 2023 13:48:03 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/viewBySearch| [error: ReferenceError: bookId is not defined]
+Time:Fri Oct 06 2023 13:48:03 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/viewBySearch| [error: ReferenceError: bookId is not defined]
+Time:Fri Oct 06 2023 13:48:05 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/viewBySearch| [error: ReferenceError: bookId is not defined]
+Time:Fri Oct 06 2023 13:48:05 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/viewBySearch| [error: ReferenceError: bookId is not defined]
+Time: Fri Oct 06 2023 14:16:08 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Fri Oct 06 2023 14:21:13 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Fri Oct 06 2023 14:23:20 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Fri Oct 06 2023 14:25:23 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Fri Oct 06 2023 14:28:14 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Fri Oct 06 2023 14:36:00 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Fri Oct 06 2023 14:39:11 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Fri Oct 06 2023 14:43:06 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time:Fri Oct 06 2023 15:34:05 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time: Tue Oct 10 2023 12:06:25 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time:Tue Oct 10 2023 14:15:38 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks/bookID65081d757565f7b3c3f61476| [error: TypeError: BookModel.delete is not a function]
+Time:Tue Oct 10 2023 14:15:44 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks/bookID65081d757565f7b3c3f61476| [error: TypeError: BookModel.delete is not a function]
+Time:Tue Oct 10 2023 14:15:44 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks/bookID65081d757565f7b3c3f61476| [error: TypeError: BookModel.delete is not a function]
+Time:Tue Oct 10 2023 14:15:52 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks/bookID65081d757565f7b3c3f61476| [error: TypeError: BookModel.delete is not a function]
+Time:Tue Oct 10 2023 14:15:52 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks/bookID65081d757565f7b3c3f61476| [error: TypeError: BookModel.delete is not a function]
+Time:Tue Oct 10 2023 14:16:13 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks/bookID=65081d757565f7b3c3f61476| [error: TypeError: BookModel.delete is not a function]
+Time:Tue Oct 10 2023 14:20:23 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks/bookID=65081d757565f7b3c3f61476| [error: TypeError: BookModel.delete is not a function]
+Time:Tue Oct 10 2023 14:20:23 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks/bookID=65081d757565f7b3c3f61476| [error: TypeError: BookModel.delete is not a function]
+Time:Tue Oct 10 2023 14:36:08 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks?65081d757565f7b3c3f61476| [error: TypeError: BookModel.delete is not a function]
+Time:Tue Oct 10 2023 14:36:26 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks?bookID65081d757565f7b3c3f61476| [error: TypeError: BookModel.delete is not a function]
+Time:Tue Oct 10 2023 14:36:45 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks?bookID=65081d757565f7b3c3f61476| [error: TypeError: BookModel.delete is not a function]
+Time:Tue Oct 10 2023 14:39:44 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks?bookID=65081d757565f7b3c3f61476| [error: TypeError: BookModel.delete is not a function]
+Time:Tue Oct 10 2023 14:39:44 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks?bookID=65081d757565f7b3c3f61476| [error: TypeError: BookModel.delete is not a function]
+Time:Tue Oct 10 2023 14:40:24 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks?bookID=65081d757565f7b3c3f61476| [error: TypeError: BookModel.delete is not a function]
+Time:Tue Oct 10 2023 14:40:24 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/deleteBooks?bookID=65081d757565f7b3c3f61476| [error: TypeError: BookModel.delete is not a function]
+Time: Tue Oct 10 2023 16:09:34 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Tue Oct 10 2023 16:13:09 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Tue Oct 10 2023 16:15:57 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Wed Oct 11 2023 10:17:13 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 12 2023 08:50:15 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 12 2023 08:50:56 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 12 2023 09:24:27 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 12 2023 17:54:47 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 12 2023 18:02:07 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 12 2023 18:04:49 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 12 2023 18:05:19 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 12 2023 18:07:49 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Thu Oct 12 2023 18:33:05 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time:Thu Oct 12 2023 18:50:31 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/viewBySearch?bookID=978-0735211292| [error: CastError: Cast to ObjectId failed for value "978-0735211292" (type string) at path "_id" for model "books"]
+Time:Thu Oct 12 2023 18:50:31 GMT+0600 (Bangladesh Standard Time) |failed Message: Internal Server Error...|URL: 127.0.0.1/books/viewBySearch?bookID=978-0735211292| [error: CastError: Cast to ObjectId failed for value "978-0735211292" (type string) at path "_id" for model "books"]
+Time: Fri Oct 13 2023 08:00:41 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Fri Oct 13 2023 08:09:30 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Fri Oct 13 2023 10:19:28 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time:Fri Oct 13 2023 11:27:03 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time:Fri Oct 13 2023 11:36:44 GMT+0600 (Bangladesh Standard Time) |success|URL: 127.0.0.1/books/create
+Time: Fri Oct 13 2023 13:50:44 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Fri Oct 13 2023 13:56:52 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Fri Oct 13 2023 13:57:40 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Fri Oct 13 2023 16:22:13 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Fri Oct 13 2023 16:22:35 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Fri Oct 13 2023 16:55:41 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Fri Oct 13 2023 17:25:54 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Fri Oct 13 2023 17:29:29 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Mon Oct 16 2023 15:19:49 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Mon Oct 16 2023 15:28:05 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Mon Oct 16 2023 15:35:54 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Mon Oct 16 2023 15:40:39 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login
+Time: Mon Oct 16 2023 16:34:27 GMT+0600 (Bangladesh Standard Time) |success:Successfully logged in..."!|URL: 127.0.0.1/auth/login

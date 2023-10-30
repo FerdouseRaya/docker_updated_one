@@ -1,0 +1,125 @@
+/* ForgotPasswordForm.scss */
+
+// Container for the form
+.forgot-password-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  
+    form {
+      display: flex;
+      flex-direction: column;
+      width: 300px;
+  
+      label {
+        display: none; // Hide the label for screen readers
+      }
+  
+      h3 {
+        margin-bottom: 10px;
+      }
+  
+      input {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border: 1px solid transparent;
+        border-radius: 5px;
+        transition: border-color 0.2s;
+        border-color: #28405a;
+  
+        &:focus {
+          border-color: #007bff; // Change border color on focus
+        }
+  
+        
+      }
+  
+      p {
+        color: red; // Error message text color
+        margin-top: 5px;
+      }
+  
+      .btn {
+        background-color: #007bff; // Button background color
+        color: #fff; // Button text color
+        padding: 10px 15px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.2s;
+  
+        &:hover {
+          background-color: #0056b3; // Button background color on hover
+        }
+      }
+    }
+  }
+  /* ResetPassword.scss */
+
+// Container for the form
+.reset-password-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Set the container height to 100% of the viewport height */
+  }
+.reset-password-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #021d02;
+
+  
+    form {
+      display: flex;
+      flex-direction: column;
+      width: 300px;
+  
+      label {
+        display: none; // Hide the label for screen readers
+      }
+  
+      h3 {
+        margin-bottom: 10px;
+      }
+  
+      input {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border: 1px solid transparent;
+        border-radius: 5px;
+        transition: border-color 0.2s;
+        border-color: #e6f0e6; 
+  
+        &:focus {
+          border-color: #00aa00; // Change border color on focus (green)
+        }
+  
+
+      }
+  
+      p {
+        color: red; // Error message text color
+        margin-top: 5px;
+      }
+  
+      .btn {
+        background-color: #00aa00; // Green button background color
+        color: #fff; // Button text color
+        padding: 10px 15px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.2s;
+  
+        &:hover {
+          background-color: #8d3636; // Button background color on hover (darker green)
+        }
+      }
+    }
+  }
+  

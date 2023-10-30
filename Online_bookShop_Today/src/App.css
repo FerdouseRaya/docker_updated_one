@@ -1,0 +1,20 @@
+
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  /* font-family: 'Caveat', cursive;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Edu SA Beginner', cursive;
+  font-family: 'Handlee', cursive; */
+  font-family: 'Caveat', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Edu SA Beginner', cursive;
+font-family: 'Handlee', cursive;
+font-family: 'Nunito', sans-serif;
+}
+
+body{
+  background-color: #687f79;
+
+}

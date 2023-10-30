@@ -1,0 +1,49 @@
+/* Navbar.css */
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background:#b4c195;
+    padding: 20px 40px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+  }
+  
+  #logo-70 {
+    margin-left: -400px; /* Remove the underline, if any */
+  }
+  #navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+  }
+  
+  /* Target the Link components directly */
+  #navbar a {
+    list-style: none;
+    padding: 0 20px;
+    position: relative;
+    text-decoration: none;
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: antiquewhite;
+    transition: 0.3s ease-in-out;
+  }
+  
+  #navbar a:hover {
+    color:#697739;
+  }
+  
+  #navbar a:hover::after {
+    content: "";
+    width: 40%;
+    height: 2px;
+    background-color: #697739;
+    position: absolute;
+    bottom: -4px;
+    left: 20px;
+  }
+  .fa_Cart{
+    font-size: 24px; /* Change the font size as desired */
+    margin-right: 200px; /* Add margin for spacing */
+  }

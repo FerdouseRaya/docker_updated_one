@@ -1,0 +1,109 @@
+
+
+.reviewForm {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    background-color: #a5afa5;
+    margin-bottom: 16px;
+  
+    label {
+      display: block;
+      font-weight: bold;
+      margin-bottom: 8px;
+    }
+  
+    .reviewInput {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      margin-bottom: 12px;
+  
+      &:focus {
+        outline: none;
+        border-color: #007bff;
+      }
+    }
+  
+    .ratingInput {
+      width: 55px;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      margin-bottom: 12px;
+  
+      &:focus {
+        outline: none;
+        border-color: #0c6104f6;
+      }
+    }
+  
+    .error {
+      color: #ff0000;
+      font-size: 12px;
+    }
+  
+    .submit {
+      background-color: #19570a;
+      color: #fff;
+      border: none;
+      margin-bottom: 5px;
+      padding: 10px 10px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+  
+      &:hover {
+        background-color: #0b1d05;
+      }
+    }
+  
+    .edit {
+      background-color: #19570a;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      margin-bottom: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+  
+      &:hover {
+        background-color: #333;
+      }
+    }
+  }
+  .review-edit-form textarea {
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .review-edit-form label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .review-edit-form input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .update-review-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .update-review-button:hover {
+    background-color: #0056b3;
+  }

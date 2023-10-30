@@ -1,0 +1,59 @@
+/* AddBookform.scss */
+
+.form-container {
+    max-width: 450px;
+    margin: 15px auto;
+    padding: 20px;
+    background-color: #fff1e4;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .custom-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: border-color 0.3s;
+  }
+  
+  .custom-input:focus {
+    border-color: #364144;
+    outline: none;
+  }
+  
+  h5 {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
+  .custom-btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #9fa390;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .custom-btn:hover {
+    background-color: #364144;
+  }
+  

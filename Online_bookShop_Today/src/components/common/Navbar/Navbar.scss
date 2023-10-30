@@ -1,0 +1,68 @@
+/* Navbar.css */
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #b4c195;
+  padding: 20px 40px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+
+  @media (max-width: 768px) {
+    /* Apply styles for screens with a max width of 768px */
+    padding: 10px; /* Reduce padding for smaller screens */
+    flex-direction: column; /* Stack elements vertically for smaller screens */
+    text-align: center; /* Center-align text for smaller screens */
+  }
+}
+
+#logo-70 {
+  margin-left: -200px; /* Remove the underline, if any */
+}
+
+#navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+}
+
+/* Target the Link components directly */
+#navbar a {
+  list-style: none;
+  padding: 0 20px;
+  position: relative;
+  text-decoration: none;
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: antiquewhite;
+  transition: 0.3s ease-in-out;
+
+  @media (max-width: 768px) {
+    /* Adjust styles for smaller screens */
+    padding: 10px; /* Reduce padding for smaller screens */
+  }
+}
+
+#navbar a:hover {
+  color: #697739;
+}
+
+#navbar a:hover::after {
+  content: "";
+  width: 40%;
+  height: 2px;
+  background-color: #697739;
+  position: absolute;
+  bottom: -4px;
+  left: 20px;
+}
+
+.fa_Cart {
+  font-size: 30px; /* Change the font size as desired */
+  // margin-right: 20px; /* Add margin for spacing */
+
+  @media (max-width: 768px) {
+    /* Adjust styles for smaller screens */
+    margin: 10px; /* Adjust margin for smaller screens */
+  }
+}
