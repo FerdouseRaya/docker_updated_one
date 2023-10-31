@@ -11,8 +11,10 @@ const databaseConnection = require("./config/database");
 const express = require("express");
 const app = express();
 const corsOptions = {
-  origin: "http://35.180.242.220:5173",
-  credentials: true, 
+  // origin: "http://35.180.242.220:5173",
+  origin: "http://35.181.53.227:5173",
+
+  credentials: true,
 };
 
 app.use(cors(corsOptions));
